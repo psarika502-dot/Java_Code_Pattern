@@ -1,0 +1,413 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Addition1",
+            "request": "launch",
+            "mainClass": "Addition1",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "Addition2",
+            "request": "launch",
+            "mainClass": "Addition2",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "AllOperation",
+            "request": "launch",
+            "mainClass": "AllOperation",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "Calender",
+            "request": "launch",
+            "mainClass": "Calender",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "CircleCal",
+            "request": "launch",
+            "mainClass": "CircleCal",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop1",
+            "request": "launch",
+            "mainClass": "DoWhileLoop1",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop3",
+            "request": "launch",
+            "mainClass": "DoWhileLoop3",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop4",
+            "request": "launch",
+            "mainClass": "DoWhileLoop4",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoopa2",
+            "request": "launch",
+            "mainClass": "DoWhileLoopa2",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "First1",
+            "request": "launch",
+            "mainClass": "First1",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "First2",
+            "request": "launch",
+            "mainClass": "First2",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop1",
+            "request": "launch",
+            "mainClass": "ForLoop1",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop10",
+            "request": "launch",
+            "mainClass": "ForLoop10",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop2",
+            "request": "launch",
+            "mainClass": "ForLoop2",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop3",
+            "request": "launch",
+            "mainClass": "ForLoop3",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop4",
+            "request": "launch",
+            "mainClass": "ForLoop4",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop5",
+            "request": "launch",
+            "mainClass": "ForLoop5",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop6",
+            "request": "launch",
+            "mainClass": "ForLoop6",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop7",
+            "request": "launch",
+            "mainClass": "ForLoop7",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop8",
+            "request": "launch",
+            "mainClass": "ForLoop8",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop9",
+            "request": "launch",
+            "mainClass": "ForLoop9",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "HomeWork1",
+            "request": "launch",
+            "mainClass": "HomeWork1",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "Homework",
+            "request": "launch",
+            "mainClass": "Homework",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "Ifelse1",
+            "request": "launch",
+            "mainClass": "Ifelse1",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "Ifelse2",
+            "request": "launch",
+            "mainClass": "Ifelse2",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "Ifelse3",
+            "request": "launch",
+            "mainClass": "Ifelse3",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "Ifelse4",
+            "request": "launch",
+            "mainClass": "Ifelse4",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop1",
+            "request": "launch",
+            "mainClass": "NestedLoop1",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop11",
+            "request": "launch",
+            "mainClass": "NestedLoop11",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop12",
+            "request": "launch",
+            "mainClass": "NestedLoop12",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop13",
+            "request": "launch",
+            "mainClass": "NestedLoop13",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop14",
+            "request": "launch",
+            "mainClass": "NestedLoop14",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop16",
+            "request": "launch",
+            "mainClass": "NestedLoop16",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop17",
+            "request": "launch",
+            "mainClass": "NestedLoop17",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop18",
+            "request": "launch",
+            "mainClass": "NestedLoop18",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop19",
+            "request": "launch",
+            "mainClass": "NestedLoop19",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop2",
+            "request": "launch",
+            "mainClass": "NestedLoop2",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop20",
+            "request": "launch",
+            "mainClass": "NestedLoop20",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop21",
+            "request": "launch",
+            "mainClass": "NestedLoop21",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop22",
+            "request": "launch",
+            "mainClass": "NestedLoop22",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop23",
+            "request": "launch",
+            "mainClass": "NestedLoop23",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop25",
+            "request": "launch",
+            "mainClass": "NestedLoop25",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop26",
+            "request": "launch",
+            "mainClass": "NestedLoop26",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop27",
+            "request": "launch",
+            "mainClass": "NestedLoop27",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop28",
+            "request": "launch",
+            "mainClass": "NestedLoop28",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop3",
+            "request": "launch",
+            "mainClass": "NestedLoop3",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop4",
+            "request": "launch",
+            "mainClass": "NestedLoop4",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop5",
+            "request": "launch",
+            "mainClass": "NestedLoop5",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop6",
+            "request": "launch",
+            "mainClass": "NestedLoop6",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop8",
+            "request": "launch",
+            "mainClass": "NestedLoop8",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestedLoop9",
+            "request": "launch",
+            "mainClass": "NestedLoop9",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestsedLoop15",
+            "request": "launch",
+            "mainClass": "NestsedLoop15",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "NestsedLoop7",
+            "request": "launch",
+            "mainClass": "NestsedLoop7",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "Switch1",
+            "request": "launch",
+            "mainClass": "Switch1",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop1",
+            "request": "launch",
+            "mainClass": "WhileLoop1",
+            "projectName": "Coding_ceda3c41"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop2",
+            "request": "launch",
+            "mainClass": "WhileLoop2",
+            "projectName": "Coding_ceda3c41"
+        }
+    ]
+}

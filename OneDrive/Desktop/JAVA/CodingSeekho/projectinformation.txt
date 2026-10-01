@@ -1,0 +1,3 @@
+next js react framework ya madhe backend frotend banvu shkto without any error.next js rountine folder create hote. package mongoose orl for database manipulation and model creation backend first step model react js frotend 
+-- we use uploading thing for file storing in and retriving in our frontend ,,its based on S3 Bucket
+
